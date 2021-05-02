@@ -1,4 +1,4 @@
-# Biomedical-Segmentation-of-Brain-MRI-images
+# Biomedical-Segmentation-of-Brain-MRI-scans
 
 ![image](https://user-images.githubusercontent.com/71550473/116810295-a77b0700-ab60-11eb-80b5-8aa2a608edc4.png)
 
